@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618211483 source:/home/like/misc/cpp_practice/geometric_calculator/main.cpp
+	<iostream>
+	<cmath>
+
